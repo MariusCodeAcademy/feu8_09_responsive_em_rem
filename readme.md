@@ -12,6 +12,7 @@ pradedam nuo mobile
 ![](assets/2023-06-15-11-13-02.png)
 
 2. darom kontaktu sekcija
+
    ![](assets/2023-06-15-13-37-53.png)
    ![](assets/2023-06-15-13-37-39.png)
 
