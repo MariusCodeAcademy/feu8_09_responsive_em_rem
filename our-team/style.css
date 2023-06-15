@@ -48,7 +48,9 @@
 .carImgContainer:hover .sidebar {
   left: 0;
 }
-
+.inputBlock {
+  /* border: 1px solid pink; */
+}
 .inputBlock label {
   display: block;
   font-size: 16px;
