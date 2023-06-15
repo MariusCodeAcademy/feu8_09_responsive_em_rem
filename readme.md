@@ -14,3 +14,6 @@ pradedam nuo mobile
 2. darom kontaktu sekcija
    ![](assets/2023-06-15-13-37-53.png)
    ![](assets/2023-06-15-13-37-39.png)
+
+3. Footer mobile first
+   ![](assets/2023-06-15-13-41-14.png)
