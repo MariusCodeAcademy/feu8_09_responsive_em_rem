@@ -1,0 +1,50 @@
+.ourTeamSection {
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+
+.sectionTitle {
+  text-align: center;
+  color: #007bff;
+}
+
+.sectionIntro {
+  text-align: center;
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+.cardInfo {
+  padding: 15px;
+}
+
+.cardTitle {
+  margin-bottom: 0;
+  font-weight: normal;
+  font-size: 20px;
+  margin-bottom: 0.2em;
+}
+.cardJob {
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.5);
+}
+.carImgContainer {
+  position: relative;
+  /* kad nesimatytu uz sio konteinerio ribos melyno sidebar */
+  overflow: hidden;
+}
+.cardImg {
+  height: 100%;
+}
+.sidebar {
+  position: absolute;
+  height: 100%;
+  width: 35px;
+  top: 0;
+  left: -50px;
+  background-color: #007bff;
+  transition: all 0.3s;
+}
+.carImgContainer:hover .sidebar {
+  left: 0;
+}
